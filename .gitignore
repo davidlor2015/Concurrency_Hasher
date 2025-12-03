@@ -1,0 +1,12 @@
+*.bin
+
+*.txt
+
+sharedhash
+esharedhash
+*.o
+a.out
+
+*~
+.DS_Store
+.vscode/
